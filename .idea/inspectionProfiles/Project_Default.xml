@@ -1,0 +1,132 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="59">
+            <item index="0" class="java.lang.String" itemvalue="date-aos-delay" />
+            <item index="1" class="java.lang.String" itemvalue="route_name" />
+            <item index="2" class="java.lang.String" itemvalue="if" />
+            <item index="3" class="java.lang.String" itemvalue="{%" />
+            <item index="4" class="java.lang.String" itemvalue="%}selected{%" />
+            <item index="5" class="java.lang.String" itemvalue="endif" />
+            <item index="6" class="java.lang.String" itemvalue="%}" />
+            <item index="7" class="java.lang.String" itemvalue="route_direction" />
+            <item index="8" class="java.lang.String" itemvalue="stop.id" />
+            <item index="9" class="java.lang.String" itemvalue="route.stop.id" />
+            <item index="10" class="java.lang.String" itemvalue="bus.id" />
+            <item index="11" class="java.lang.String" itemvalue="route.bus.id" />
+            <item index="12" class="java.lang.String" itemvalue="route.driver.id" />
+            <item index="13" class="java.lang.String" itemvalue="driver.id" />
+            <item index="14" class="java.lang.String" itemvalue="value" />
+            <item index="15" class="java.lang.String" itemvalue="rubavu_musanze" />
+            <item index="16" class="java.lang.String" itemvalue="n" />
+            <item index="17" class="java.lang.String" itemvalue="route.start_point.id" />
+            <item index="18" class="java.lang.String" itemvalue="route.end_point.id" />
+            <item index="19" class="java.lang.String" itemvalue="route.bus_name.id" />
+            <item index="20" class="java.lang.String" itemvalue="route.bus_number.id" />
+            <item index="21" class="java.lang.String" itemvalue="route.driver_name.id" />
+            <item index="22" class="java.lang.String" itemvalue="status" />
+            <item index="23" class="java.lang.String" itemvalue="booking.start_point.id" />
+            <item index="24" class="java.lang.String" itemvalue="route.id" />
+            <item index="25" class="java.lang.String" itemvalue="booking.end_point.id" />
+            <item index="26" class="java.lang.String" itemvalue="booking.start_date.id" />
+            <item index="27" class="java.lang.String" itemvalue="booking.start_time.id" />
+            <item index="28" class="java.lang.String" itemvalue="booking.bus_name.id" />
+            <item index="29" class="java.lang.String" itemvalue="booking.bus_number.id" />
+            <item index="30" class="java.lang.String" itemvalue="company.id" />
+            <item index="31" class="java.lang.String" itemvalue="bus.company.id" />
+            <item index="32" class="java.lang.String" itemvalue="bus.stop.id" />
+            <item index="33" class="java.lang.String" itemvalue="bus.driver.id" />
+            <item index="34" class="java.lang.String" itemvalue="booking.price.id" />
+            <item index="35" class="java.lang.String" itemvalue="gender" />
+            <item index="36" class="java.lang.String" itemvalue="bus.driver_name.id" />
+            <item index="37" class="java.lang.String" itemvalue="bus.start_point.id" />
+            <item index="38" class="java.lang.String" itemvalue="bus.end_point.id" />
+            <item index="39" class="java.lang.String" itemvalue="bookings.start_point.id" />
+            <item index="40" class="java.lang.String" itemvalue="bookings.end_point.id" />
+            <item index="41" class="java.lang.String" itemvalue="bookings.start_date.id" />
+            <item index="42" class="java.lang.String" itemvalue="bookings.start_time.id" />
+            <item index="43" class="java.lang.String" itemvalue="bookings.bus_name.id" />
+            <item index="44" class="java.lang.String" itemvalue="bookings.bus_number.id" />
+            <item index="45" class="java.lang.String" itemvalue="bookings.price.id" />
+            <item index="46" class="java.lang.String" itemvalue="bookings.status" />
+            <item index="47" class="java.lang.String" itemvalue="taxi.taxi_driver.id" />
+            <item index="48" class="java.lang.String" itemvalue="taxidrivers.id" />
+            <item index="49" class="java.lang.String" itemvalue="taxidriver.id" />
+            <item index="50" class="java.lang.String" itemvalue="taxi.taxi_location.id" />
+            <item index="51" class="java.lang.String" itemvalue="place.id" />
+            <item index="52" class="java.lang.String" itemvalue="request.path" />
+            <item index="53" class="java.lang.String" itemvalue="active" />
+            <item index="54" class="java.lang.String" itemvalue="type" />
+            <item index="55" class="java.lang.String" itemvalue="bookings.company.id" />
+            <item index="56" class="java.lang.String" itemvalue="bookings.driver_name.id" />
+            <item index="57" class="java.lang.String" itemvalue="name" />
+            <item index="58" class="java.lang.String" itemvalue="taxi.sector.id" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="h3" />
+            <item index="7" class="java.lang.String" itemvalue="h5" />
+            <item index="8" class="java.lang.String" itemvalue="h1" />
+            <item index="9" class="java.lang.String" itemvalue="div" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="E722" />
+          <option value="E265" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+          <option value="type" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django.db.models.fields.CharField.__add__" />
+          <option value="bus_app.models.Stops.objects" />
+          <option value="bus_app.models.Reservations.objects" />
+          <option value="django.forms.select" />
+          <option value="django.contrib.messages.danger" />
+          <option value="bus_app.PassengerViews.user" />
+          <option value="bus_app.APA.contact" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
