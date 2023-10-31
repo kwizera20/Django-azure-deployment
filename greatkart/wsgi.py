@@ -11,6 +11,7 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
+
 settings_module = 'greatkart.deployment' if 'WEBSITE_HOSTNAME' in os.environ else 'greatkart.settings'
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', settings_module)
 
